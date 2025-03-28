@@ -1,2 +1,1 @@
-Inventory management is basically used to manages the raw materials and goods details.
-We can handle goods details here can check about the product availability 
+hi hello every one
