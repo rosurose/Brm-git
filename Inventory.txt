@@ -1,0 +1,1 @@
+Inventory management is basically used to manages the raw materials and goods details.
