@@ -1,0 +1,1 @@
+Ordermanagement is mainly used to handle the order details of the customers.
